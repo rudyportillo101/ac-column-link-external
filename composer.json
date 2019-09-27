@@ -1,0 +1,15 @@
+{
+  "name": "bluevine/ac-column-link-external",
+  "description": "Adds a custom column from the custom field `Link External`",
+  "type": "mu-plugin",
+  "authors": [
+    {
+      "name": "Rudy Portillo",
+      "email": "rudy.portillo@bluevine.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^7.2"
+  }
+}
